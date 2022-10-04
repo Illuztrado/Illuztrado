@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm JP Canindo, a Software Engineer specializing in Full Stack Web Development.
+
 <!--
 **Illuztrado/Illuztrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
