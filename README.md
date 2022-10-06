@@ -1,9 +1,11 @@
 <h1 align="center">Hello! 👋, I'm JP Canindo</h1>
-<h3 align="center">A software engineer specializing in full-stack web development</h3>
+<h3 align="center">A Software Engineer specializing in full-stack web development</h3>
+
+- 💼 I previously worked in the **equity capital markets, corporate financial advisory industry** in the 🇵🇭 serving small- to mid-cap Cos.
 
 - 🔭 I’m currently working on **a 100-hour full-stack web application project**
 
-- 🌱 I’m looking to learn more about **Blockchain, Web3**
+- 🌱 I’m looking to learn more about **Blockchain & Web3 development**
 
 - 📫 How to reach me: **canindojp@gmail.com**
 
