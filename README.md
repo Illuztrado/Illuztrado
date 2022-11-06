@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a 100-hour full-stack application** that I think can help consumers save money when shopping for basic goods.
 
-- 💼 I have a background in **finance & investment banking**. I've spent the most recent years of my career specializing in **equity capital markets, corporate financial advisory, and transaction advisory** focusing on small- to mid-cap companies in the 🇵🇭.
+- 💼 I have a background in **finance & investment banking**. I've spent some of the most recent years of my career specializing in **equity capital markets, corporate financial advisory, and transaction advisory** focusing on small- to mid-cap companies in the 🇵🇭.
 
 - 🌱 I’m looking to learn more about **Blockchain & Web3 development**
 
