@@ -1,9 +1,9 @@
 <h1 align="center">Hello! 👋, I'm JP Canindo</h1>
 <h3 align="center">A Software Engineer specializing in full-stack web development</h3>
 
-- 💼 I previously worked in **investment banking**, specializing in **equity capital markets, corporate financial advisory, and transaction advisory**, focusing on small- to mid-cap companies in the 🇵🇭.
-
 - 🔭 I’m currently working on **a 100-hour full-stack application** that I think can help consumers save money when shopping for basic goods.
+
+- 💼 I have a background in **finance & investment banking**. I've spent the most recent years of my career specializing in **equity capital markets, corporate financial advisory, and transaction advisory** focusing on small- to mid-cap companies in the 🇵🇭.
 
 - 🌱 I’m looking to learn more about **Blockchain & Web3 development**
 
