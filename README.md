@@ -5,7 +5,7 @@
 
 - 💼 I also have a background in **corporate finance & investment banking**. I've spent some of the most recent years of my career specializing in **equity capital markets, corporate financial advisory, and transaction advisory** focusing on small- to mid-cap companies in the 🇵🇭.
 
-- 🌱 I’m looking to learn more about **JavaScript front-end frameworks** and **Blockchain & Web3 development**
+- 🌱 I’m currently tinkering with **JavaScript front-end frameworks** and **Blockchain & Web3 development**
 
 - 📫 How to reach me: **canindojp@gmail.com**
 
