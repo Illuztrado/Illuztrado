@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋 I'm JP, a Software Engineer</h1>
-<h3 align="center">I focus on full-stack web development and currently dabbling in Blockchain & Web3 on the side</h3>
+<h3 align="center">I focus on full-stack web development and currently dabble in Blockchain & Web3 on the side</h3>
 
 - 🔭 I’m currently working on **an application** that helps consumers save money when shopping for basic goods/household essentials.
 
